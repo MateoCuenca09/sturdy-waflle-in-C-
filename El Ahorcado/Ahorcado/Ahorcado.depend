@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1623078353 source:c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\juego.cpp
+	"juego.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<ctype.h>
+	<stdio.h>
+
+1623074045 c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\juego.h
+
+1623079105 source:c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\jugador.cpp
+	<iostream>
+	<string.h>
+	"jugador.h"
+
+1623078653 c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\jugador.h
+
+1624248634 source:c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\diccionario.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<fstream>
+	<sstream>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	"diccionario.h"
+
+1624248451 c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\diccionario.h
+	<iostream>
+	<vector>
+
+1624247864 source:c:\users\mateo\desktop\ucc\programacion ii\el ahorcado\nuestro\main.cpp
+	<iostream>
+	<cctype>
+	"juego.h"
+	"diccionario.h"
+	"jugador.h"
+
